@@ -1,0 +1,9 @@
+.red {
+  color: red;
+}
+
+@media (max-width: 767px) {
+  .red {
+    border: 0;
+  }
+}
